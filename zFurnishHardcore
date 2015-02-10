@@ -1,0 +1,2 @@
+#!/bin/sh
+wget -c http://se.archive.ubuntu.com/ubuntu/pool/universe/x/xboxdrv/xboxdrv_0.8.5-1_amd64.deb
