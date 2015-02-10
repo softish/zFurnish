@@ -1,0 +1,2 @@
+sudo apt-get --yes --force-yes update && sudo apt-get --yes --force-yes upgrade && sudo apt-get install unity-tweak-tool nautilus-dropbox codeblocks openjdk-7-jdk eclipse dia git skype steam evince transmission-gtk ssh htop synaptic vlc xpad inkscape virtualbox gparted gimp audacity wireshark google-chrome-stable qbittorrent kdenlive pitivi pinta simplescreenrecorder inkscape openshot anjuta gufw dia  evoluspencil folder-color kolourpaint4 glade indicator-multiload meld
+#approx time vbox 25min
